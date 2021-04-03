@@ -1,6 +1,6 @@
 # Mobile Price Prediction: Overview
 
-* Created mobile price prediction model which predicted mobile price which may help consumer to set their budget for buying mobiles.
+* Created mobile price prediction model which predicted mobile price. which may help consumer to set their budget for buying mobiles.
 * Scraped flipkart mobile pages using python and Beautiful soup.
 * Performing exploratory data analysis to find out relationship of price with other variable.
 * Made linear regression model to predict mobile price.
