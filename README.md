@@ -46,7 +46,7 @@ We observed that price has strong positive correlation with RAM, Storage and Fro
 We have observed linear relationship of price with RAM, Storage and Front Camera. We will take it for model building.
 we would build linear regression model which would predict mobile price.
 Prediction equation of the model:
-#### Price = 980.53*RAM + 1560.01*Storage + 2171.76*Front_Camera + 5016.43
+#### Price = 980.53 * RAM + 1560.01 * Storage + 2171.76 * Front_Camera + 5016.43
 
 # Model Performance
 * Accuracy of the model: Score = 0.8787(87.87%)
